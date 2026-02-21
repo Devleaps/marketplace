@@ -13,7 +13,7 @@ claude plugin marketplace add Devleaps/marketplace
 Install a plugin:
 
 ```bash
-claude plugin install agent-policies@devleaps-marketplace
+claude plugin install agent-policies@Devleaps-marketplace
 ```
 
 ## Plugins
