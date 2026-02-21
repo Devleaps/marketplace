@@ -1,0 +1,16 @@
+{
+  "name": "devleaps-marketplace",
+  "owner": {
+    "name": "DevLeaps"
+  },
+  "plugins": [
+    {
+      "name": "agent-policies",
+      "source": {
+        "source": "github",
+        "repo": "Devleaps/agent-policies-claude-code",
+        "ref": "main"
+      }
+    }
+  ]
+}
