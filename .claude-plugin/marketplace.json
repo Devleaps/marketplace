@@ -11,6 +11,14 @@
         "repo": "Devleaps/agent-policies-claude-code",
         "ref": "main"
       }
+    },
+    {
+      "name": "continue-claude-code",
+      "source": {
+        "source": "github",
+        "repo": "Devleaps/continue-claude-code",
+        "ref": "main"
+      }
     }
   ]
 }
